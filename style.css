@@ -13,18 +13,18 @@ h1 {
   font-family: 'Caveat', cursive;
   margin-top: 50px;
   margin-bottom: 30px;
-  color: #423144;
+  color: #000000;
 }
 
 h2 {
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
-  color: #423144;
+  color: #000000;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #1b1717;
+  color: #8FABD4;
   font-size: 1.75rem;
   padding-left: 30px;
   padding-right: 30px;
@@ -37,7 +37,7 @@ a{
 }
 
 a:hover {
-  background-color: #1b1717;
+  background-color: #8FABD4;
 }
 
 .aNazivSkole {
@@ -46,7 +46,7 @@ a:hover {
   margin: 0 auto 0 auto;
   font-family: 'Caveat', cursive;
   margin-top: 50px;
-  color: #423144;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -64,7 +64,7 @@ a.ah3:hover {
 
 
 .iznadDiv{
-  background-color: #222831;
+  background-color: #4A70A9;
 }
 .gornjiDiv{
   background-color: #F6F7D3;
@@ -73,19 +73,19 @@ a.ah3:hover {
 
 }
 .srednjiDiv1{
-  background-color: #222831;
+  background-color: #4A70A9;
 
 }
 .srednjiDiv2{
   background-color: #F6F7D3;
 }
 .donjiDiv{
-  background-color: #222831;
+  background-color: #4A70A9;
   padding: 50px 0 20px;
 }
 
 .metaPitanja {
-  background-color: #222831;
+  background-color: #4A70A9;
   color: #F6F7D3;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -202,17 +202,17 @@ a.ah3:hover {
 }
 
 .smerB {
-  color: #222831;
+  color: #4A70A9;
   text-align: center;
 
 }
 .smerBRight {
-  color: #222831;
+  color: #4A70A9;
   text-align: right;
 
 }
 .smerBLeft {
-  color: #222831;
+  color: #4A70A9;
   text-align: left;
 
 }
@@ -223,7 +223,7 @@ a.ah3:hover {
   font-family: 'Caveat', cursive;
   margin-top: 50px;
   margin-bottom: 30px;
-  color: #423144;
+  color: #000000;
   text-align:justify;
 
 }
@@ -234,7 +234,7 @@ a.ah3:hover {
   font-family: 'Caveat', cursive;
   margin-top: 50px;
   margin-bottom: 30px;
-  color: #423144;
+  color: #000000;
   text-align:right;
 
 }
@@ -252,12 +252,12 @@ a.ah3:hover {
 }
 
 .btn {
-  background: #222831;
-  background-image: -webkit-linear-gradient(top, #F6F7D3, #222831);
-  background-image: -moz-linear-gradient(top, #F6F7D3, #222831);
-  background-image: -ms-linear-gradient(top, #F6F7D3, #222831);
-  background-image: -o-linear-gradient(top, #F6F7D3, #222831);
-  background-image: linear-gradient(to bottom, #F6F7D3, #222831);
+  background: #4A70A9;
+  background-image: -webkit-linear-gradient(top, #F6F7D3, #4A70A9);
+  background-image: -moz-linear-gradient(top, #F6F7D3, #4A70A9);
+  background-image: -ms-linear-gradient(top, #F6F7D3, #4A70A9);
+  background-image: -o-linear-gradient(top, #F6F7D3, #4A70A9);
+  background-image: linear-gradient(to bottom, #F6F7D3, #4A70A9);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
@@ -293,7 +293,7 @@ a.ah3:hover {
   font-size: 2rem;
   font-family: 'Merriweather', serif; <!--'Montserrat', sans-serif;-->>
   font-weight: bold;
-  color: #1b1717;
+  color: #8FABD4;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
